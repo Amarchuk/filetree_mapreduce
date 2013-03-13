@@ -1,0 +1,7 @@
+foobar.com  /foo/bar/  File1.java
+barbaz.com  /bar/baz/  File1.java
+foobar.com  /foo/      File2.java
+foobar.com  /foo/bar/  File3.java
+barbaz.com  /bar/baz/  File3.java
+foobar.com  /foo/      File4.java
+foobar.com  /foo/      File4.java
