@@ -28,8 +28,10 @@ source[foobar.com]
 ```
 Запуск скрипта на сервере: 
 ```python file_tree.py files/```
-запуск диспетчера  
+
+Запуск диспетчера  
 ```python mincemeat.py -p changeme [server address]```
+
 Адрес локальной машины можно узнать например с помощью socket.gethostbyname(socket.gethostname()).
 
 Использована реализация mapreduce mincemeatpy [https://github.com/michaelfairley/mincemeatpy] и дерево pyTree [https://github.com/caesar0301/pyTree].
